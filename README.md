@@ -1,4 +1,4 @@
-# Agent Laboratory: Using LLM Agents as Research Assistants
+ # Agent Laboratory: Using LLM Agents as Research Assistants
 
 
 <p align="center">
